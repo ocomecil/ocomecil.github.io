@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ocomecil.github.io/sitemap/sitemap.txt
